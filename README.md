@@ -1,1 +1,3 @@
 # Tohjoburger
+
+Sovellus on suunnattu Tohjoburger-ravintolaketjun asiakkaille ja henkilökunnalle. Asiakkaat voivat selata tuotteita ja ravintoloiden arvosteluja. Tuotteita selatessa tuloksia voi rajata erityisruokavalioille sopiviksi. Rekisteröidyttyään he voivat tehdä tilauksia ja arvosteluja. Henkilökunta näkee tilaukset ja voi muokata tilauksen statusta (vastaanotttu, valmis). Henkilökunta näkee myös raaka-aineiden määrät ja voi muokata tätä tietoa. Tieto tuotteiden määrästä myös päivittyy automaattisesti siinä vaiheessa kun tilaus vastaanotetaan/valmistuu. Lisäksi sivulla on myös ylläpitäjät, jotka voivat lisätä uusia ravintoloita, henkilökunnan jäseniä ja tuotteita.
